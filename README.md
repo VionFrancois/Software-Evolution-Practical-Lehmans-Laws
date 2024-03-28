@@ -1,4 +1,4 @@
-# Software Evolution Practical Session
+# Software Evolution Practical Session: Lehman's laws
 
 ## Overview
 
