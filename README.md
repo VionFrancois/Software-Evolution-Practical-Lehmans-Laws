@@ -34,9 +34,3 @@ You can install the dependencies using pip:
 ```
 pip install numpy pandas matplotlib scikit-learn scipy
 ```
-
-## Credits
-
-- This practical session is adapted from a template provided by [University XYZ].
-- The Eucalyptus project can be found at [https://github.com/eucalyptus/eucalyptus].
-- The CLOC tool can be found at [https://github.com/AlDanial/cloc].
