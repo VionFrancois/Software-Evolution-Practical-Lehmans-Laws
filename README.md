@@ -1,8 +1,10 @@
 # Software Evolution Practical Session: Lehman's laws
 
+This repository contains the Python Jupyter Notebook for the Software Evolution practical session.
+
 ## Overview
 
-This repository contains the Python Jupyter Notebook for the Software Evolution practical session. The purpose of this practical session is to familiarize ourselves with Lehman's laws of software evolution and verify them using code counting methods and tools. We will be working with a large open-source software project, Eucalyptus, and use tools like CLOC for code analysis.
+The purpose of this practical session is to familiarize ourselves with Lehman's laws of software evolution and verify them using code counting methods and tools. We will be working with a large open-source software project, Eucalyptus, and use tools like CLOC for code analysis.
 
 ## Contents
 
